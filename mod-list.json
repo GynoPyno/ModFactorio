@@ -1,0 +1,446 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-containers",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-industry",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-programmable-structures",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-signal-transmission",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-signals",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-flame-tank",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-hauler",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-laser-tank",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-miner",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-vehicles-warden",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-zones",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes-hr-terrain",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsaddons-cab",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsaddons-mobility",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsaddons-nilaus",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsaddons-shred",
+      "enabled": false
+    },
+    
+    {
+      "name": "angelsaddons-storage",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsbioprocessing",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsexploration",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsindustries",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsinfiniteores",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelspetrochem",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsrefining",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelssmelting",
+      "enabled": true
+    },
+    
+    {
+      "name": "ArmouredBiters",
+      "enabled": true
+    },
+    
+    {
+      "name": "Big-Monsters",
+      "enabled": true
+    },
+    
+    {
+      "name": "Bio_Industries",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobclasses",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobelectronics",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobenemies",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobequipment",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobgreenhouse",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobinserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobmodules",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobores",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobplates",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobrevamp",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobtech",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobvehicleequipment",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobwarfare",
+      "enabled": true
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "clock",
+      "enabled": true
+    },
+    
+    {
+      "name": "Clowns-AngelBob-Nuclear",
+      "enabled": true
+    },
+    
+    {
+      "name": "Clowns-Extended-Minerals",
+      "enabled": true
+    },
+    
+    {
+      "name": "Clowns-Nuclear",
+      "enabled": true
+    },
+    
+    {
+      "name": "Clowns-Processing",
+      "enabled": true
+    },
+    
+    {
+      "name": "Clowns-Science",
+      "enabled": false
+    },
+    
+    {
+      "name": "Enemies_have_loot",
+      "enabled": false
+    },
+    
+    {
+      "name": "ERPTbaAB",
+      "enabled": false
+    },
+    
+    {
+      "name": "expanded-rocket-payloads",
+      "enabled": false
+    },
+    
+    {
+      "name": "FNEI",
+      "enabled": true
+    },
+    
+    {
+      "name": "HermiosLibs",
+      "enabled": false
+    },
+    
+    {
+      "name": "LB-Modular-Chests",
+      "enabled": true
+    },
+    
+    {
+      "name": "miniloader",
+      "enabled": true
+    },
+    
+    {
+      "name": "Natural_Evolution_Buildings",
+      "enabled": false
+    },
+    
+    {
+      "name": "Natural_Evolution_Buildings2",
+      "enabled": true
+    },
+    
+    {
+      "name": "Natural_Evolution_Enemies",
+      "enabled": false
+    },
+    
+    {
+      "name": "Nova-Natural_Evolution_Enemies",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyalienlife",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyalienlifegraphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyalienlifegraphics2",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyalienlifegraphics3",
+      "enabled": true
+    },
+    
+    {
+      "name": "pycoalprocessing",
+      "enabled": true
+    },
+    
+    {
+      "name": "pycoalprocessinggraphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "PyCoalTBaA",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyfusionenergy",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyfusionenergygraphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyhightech",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyhightechgraphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyindustry",
+      "enabled": true
+    },
+    
+    {
+      "name": "pypetroleumhandling",
+      "enabled": true
+    },
+    
+    {
+      "name": "pypetroleumhandlinggraphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyrawores",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyraworesgraphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "Rampant",
+      "enabled": true
+    },
+    
+    {
+      "name": "RampantArsenal",
+      "enabled": true
+    },
+    
+    {
+      "name": "safefill",
+      "enabled": true
+    },
+    
+    {
+      "name": "SpaceMod",
+      "enabled": true
+    },
+    
+    {
+      "name": "stdlib",
+      "enabled": true
+    },
+    
+    {
+      "name": "TerrainEvolution",
+      "enabled": true
+    },
+    
+    {
+      "name": "textplates",
+      "enabled": true
+    }
+  ]
+}
